@@ -1,0 +1,46 @@
+_repo: Elsie-s-Kith-and-Kin_14488
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Cousin Martha
+    - Farquharson, Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia: http://www.readseries.com/auth-dm/finley1.html
+description: Elsie's Kith and Kin, Book 12 While the rest of the family winters at
+  Viamede, Edward and Zoe tend to affairs at Ion and endure an unwelcome guest. Later,
+  while on a business trip, Edward is injured in a train wreck, and the rest of the
+  family returns from Viamede to be with him. At sea, Captain Raymond receives news
+  of a financial windfall and resigns from the Navy to be at home with Violet and
+  his children. He arrives in time to learn that Lulu has accidentally injured her
+  baby sister, Elsie, during a fit of anger.<
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14488'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Dinsmore, Elsie (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Sick -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children and death -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Southern States -- History -- 19th century -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Physicians -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: Elsie's Kith and Kin
+url: http://www.gutenberg.org/ebooks/14488
